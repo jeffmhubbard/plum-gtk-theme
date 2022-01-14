@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Plum
+Comment=Stop licking the screen.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Plum
+GtkTheme=Plum
+IconTheme=Plum
+MetacityTheme=Plum
